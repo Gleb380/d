@@ -1,0 +1,27 @@
+h1 {
+    font-family: sans-serif;
+    color: #ff9900;
+    text-align: center;
+}
+
+.ad {
+    border-top: 2px solid #ff9900;
+    border-bottom: 2px solid #ff9900;
+    border-left: 2px solid #ff9900;
+    border-right: 2px solid #ff9900;
+} 
+
+p {
+    font-family: sans-serif;
+    color:#ff9900;
+    font-size: 25px;
+}
+
+body {
+    background-color: #FFD873;
+}
+
+img {
+    height: 200px;
+    width: 250px;
+}
